@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321106849529",
+    "project_id": "news-bill",
+    "storage_bucket": "news-bill.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321106849529:android:ac543cde4584398ead3c28",
+        "android_client_info": {
+          "package_name": "com.sinnoor.newsbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321106849529-agvjkrs45hlr4ncskj16soe0ie9r2akb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtTjlCEhSOMYAbIxeDMi7t8YeC0_vvVjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321106849529-agvjkrs45hlr4ncskj16soe0ie9r2akb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
